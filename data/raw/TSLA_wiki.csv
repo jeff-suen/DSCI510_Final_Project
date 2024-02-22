@@ -1,0 +1,23 @@
+0,1,2,3,4
+Year,Revenue(US$ m),Net income(US$ m),Total assets(US$ m),Employees
+Vehicles,Current,Future,Discontinued,Joint projects
+2005,0,−12,8,
+2006,0,−30,44,70
+2007,0.073,−78,34,268
+2008,15,−83,52,252
+2009,112,−56,130,514
+2010,117,−154,386,899
+2011,204,−254,713,"1,417"
+2012,413,−396,"1,114","2,914"
+2013,"2,013",−74,"2,417","5,859"
+2014,"3,198",−294,"5,831","10,161"
+2015,"4,046",−889,"8,068","13,058"
+2016,"7,000",−675,"22,664","17,782"
+2017,"11,759","−1,962","28,655","37,543"
+2018,"21,461",−976,"29,740","48,817"
+2019,"24,578",−862,"34,309","48,016"
+2020,"31,536",721,"52,148","70,757"
+2021,"53,823","5,519","62,131","99,290"
+2022,"81,462","12,556","82,338","127,855"
+CurrentCybertruckModel 3Model SModel XModel YSemiFutureCyberquadNext-generation vehicleRoadster (2nd gen.)DiscontinuedRoadster (1st gen.)Joint projectsCyberquad for KidsMercedesA-ClassB-ClassSmart EQToyota RAV4 EV (2nd gen.)ChargingMegachargerNorth American Charging Standard(NACS)Supercharger,CybertruckModel 3Model SModel XModel YSemi,CyberquadNext-generation vehicleRoadster (2nd gen.),Roadster (1st gen.),Cyberquad for KidsMercedesA-ClassB-ClassSmart EQToyota RAV4 EV (2nd gen.)
+Full-size car,,,Model S,Model S
